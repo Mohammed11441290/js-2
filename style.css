@@ -305,6 +305,9 @@ p {
     height: auto;
     max-width: 100%;
 }
+.our-story .about-img{
+	width:100%
+}
 .our-story .about-img .about-img-small {
     position: relative;
     width: 211px;
